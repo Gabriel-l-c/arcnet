@@ -1,0 +1,37 @@
+##os arquvios zip sao simbolos e footprint, BBB01_SC_505 é do bleaglebone, com20020 e do chip
+## 20019pc-SMSC COM20019 REFERENCE DESIGN ASSY 6064 tem uma referência de um esquematico com comm20019 
+
+
+-- documentacao
+Documentação online beaglebone black:
+https://docs.beagleboard.org/boards/beaglebone/black/ch07.html
+
+https://www.beagleboard.org/boards/beaglebone-black
+
+pdf em :
+~/Datasheets/beaglebone-black
+
+---pinagem
+Documentaçao especifica de pins do beaglebone black:
+https://www.xecor.com/blog/beaglebone-black-pinout
+
+perl script that gives a nicely formatted overview of the current pin configuration of your BeagleBone Black. #overviwe #pin:
+https://github.com/mvduin/bbb-pin-utils
+
+--- simbolos e footprint
+https://www.samacsys.com/library-loader/
+
+--componentes
+conversor TXS0108E:  https://produto.mercadolivre.com.br/MLB-1514337947#origin=share&sid=share&action=whatsapp
+
+---githubs
+tiago messe: https://github.com/tiagomesser/Arcnet-BeagleBone-Black-Com20020-
+
+linus torvalds linux drivers ARCnet: https://github.com/torvalds/linux/blob/master/drivers/net/arcnet/com20020-pci.c
+
+bleagleboard : https://github.com/beagleboard/beaglebone-black
+
+--sites 
+compra beaglebone black mouser: https://br.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110420?qs=vmHwEFxEFR8FZOWBwz8ZDA%3D%3D&countryCode=US&currencyCode=USD
+site linux drives arcnet : https://codebrowser.dev/linux/linux/drivers/net/arcnet/
+outro site de drives: https://elixir.bootlin.com/linux/v6.18.3/source/drivers/net/arcnet

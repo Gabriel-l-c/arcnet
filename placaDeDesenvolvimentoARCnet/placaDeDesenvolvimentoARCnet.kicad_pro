@@ -397,7 +397,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/star eye/Downloads/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -415,7 +415,7 @@
     ],
     [
       "f78c949c-8a4e-48b9-b66c-1e372542a4b4",
-      "Untitled Sheet"
+      "2"
     ]
   ],
   "text_variables": {}
